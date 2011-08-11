@@ -1,0 +1,14 @@
+# 逆向最长分词
+
+将文本逆转,然后从0(下标)开始匹配,匹配最长词.直到结束.
+
+词库来源于网络.
+
+# Author
+ 
+Dreampuf [http://huangxin.im](http://huangxin.im)
+
+# LICENSE
+
+Tis project is made available under the MIT LICENSE.
+I hope this useful to you. :)
